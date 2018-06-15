@@ -70,6 +70,7 @@ input {
     flex-direction: row;
     justify-content: space-around;
     width: 100%;
+    height: 35px;
 }
 
 button {
